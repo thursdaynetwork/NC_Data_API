@@ -1,6 +1,3 @@
-# NC_Data_API
-A example of a RESTful API involving GeoJSON data on the state of North Carolina Election returns. 
+# userAPI_Node
 
-To be built with Python (Django) using PostgreSQL as a database.
-
-To contribue, simply clone this repo down to your local environment. 
+Starter documentation containing boilerplate for making simple read-only RESTful API with sample data included.
